@@ -1,4 +1,3 @@
-# PPDB
 # PPDB - Penerimaan Peserta Didik Baru
 License: MIT
 
